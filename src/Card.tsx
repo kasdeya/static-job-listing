@@ -73,7 +73,6 @@ const Card = () => {
                 <button
                   className="delete__filter"
                   onClick={(e) => {
-                    // set results back to the original data so that we can filter them again
                     setFilters(filters.filter((x) => x !== filter));
                   }}
                 >
