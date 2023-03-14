@@ -103,7 +103,7 @@ const Card = () => {
               <img className="logo" src={job.logo} alt="logo" />
               <div className="card__left__text">
                 <div className="card__top">
-                  <h3 className="card__company">{job.company}</h3>
+                  <h2 className="card__company">{job.company}</h2>
                   {job.new || job.featured ? (
                     <div className="card__badge">
                       {job.new && <span className="new__badge">New!</span>}
