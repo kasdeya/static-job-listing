@@ -1,6 +1,6 @@
 # Frontend Mentor - News homepage solution
 
-This is a solution to the [Static Job Listing challenge on Frontend Mentor]().
+This is a solution to the [Static Job Listing challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt).
 
 ## Preview
 
@@ -8,7 +8,7 @@ This is a solution to the [Static Job Listing challenge on Frontend Mentor]().
 
 ## Links
 
-- Solution URL: [Solution URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/my-flexbox-solution-with-working-filtering-tnCPILyaDg)
 - Live Site URL: [Live Solution](https://static-job-listing-chi.vercel.app/)
 
 ## Built with
