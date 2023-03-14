@@ -100,7 +100,7 @@ const Card = () => {
             className={'card' + (job.featured ? ' featured' : '')}
           >
             <div className="card__left">
-              <img className="logo" src={job.logo} />
+              <img className="logo" src={job.logo} alt="logo" />
               <div className="card__left__text">
                 <div className="card__top">
                   <h3 className="card__company">{job.company}</h3>

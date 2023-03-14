@@ -9,7 +9,7 @@ This is a solution to the [Static Job Listing challenge on Frontend Mentor]().
 ## Links
 
 - Solution URL: [Solution URL]()
-- Live Site URL: [Live Solution]()
+- Live Site URL: [Live Solution](https://static-job-listing-chi.vercel.app/)
 
 ## Built with
 
