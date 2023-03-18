@@ -1,4 +1,4 @@
-# Frontend Mentor - News homepage solution
+# Frontend Mentor - Static Job Listing solution
 
 This is a solution to the [Static Job Listing challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt).
 
